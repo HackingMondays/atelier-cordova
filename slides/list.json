@@ -1,0 +1,23 @@
+[
+    "index.html",
+    [
+        "cordova.html",
+        "acces-aux-elements-systeme.html"
+    ],
+    [
+        "fonctionnement.html",
+        "www.html",
+        "www-2.html",
+        "hooks.html",
+        "platforms.html"
+    ],
+    [
+        "plugins.html",
+        "plugins-2.html",
+        "plugins-3.html"
+    ],
+    "hybrid.html",
+    "config-xml.html",
+    "let-s-start.html",
+    "documentation.html"
+]
